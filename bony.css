@@ -1,0 +1,260 @@
+header {
+    background-color: black;
+    height: 13vh;
+    display: flex;
+}
+
+body {
+    background-color: rgb(18, 17, 17);
+}
+
+.top_nav{
+    background-color: black; 
+    /* border: 15px;
+    display: flex;
+    width: 15%;
+    margin-left: 70%;
+    margin-bottom: auto;
+     */
+     position: relative;
+    bottom: 70px;
+    padding: 20px;
+}  
+ .nav_ul {
+    list-style-type: none;
+    justify-content: space-between; gap: px;
+    display: flex;
+    flex-direction: row;
+    width: 50%; margin: 3%;
+    margin-left: 70%;
+    font-size: larger;    
+    margin-top:  -25px; 
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+  font-size: 20px;
+}
+nav ul li{
+    padding: 10px 10px 10px 10px;
+    border: 0.8px solid grey;
+}
+.h5 {
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ .container img{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+     margin-top: -100px;
+ }
+
+ .container h5{
+    color: #ffffff;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: -30px;
+    left: 350px;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: -35%;
+ }
+ hr {
+    border: 1px solid; color: tomato;
+ }
+ .words {
+    display: flex;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 25%;
+ }
+ .list {
+    color: rgb(237, 218, 6);
+    font-size: 20px;
+    font-weight: 150%;
+    padding-left: 30%;
+ }
+ .list p {
+    color: white;
+    font-size: 20px;
+    font-weight: 50px;
+    
+ }
+ input {
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+    border: 5px white;
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: -20%;
+ }
+button {
+    width: 10%;
+    height: 40px;
+    margin-left: 45%;
+    margin-top: 2%;
+    background-color: rgb(200, 72, 72);
+    font-size: larger;
+    color: white;
+    border-radius: 1%;
+}
+.we {
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 250px;
+}
+.we2 {
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 310px;
+}
+img {
+    height: 50%;
+}
+ body {
+    overflow-x: hidden;
+ }
+ .peeping {
+    display: flex; 
+    color: rgb(69, 71, 74);
+    margin-left: 550px;
+    font-size: 15px;
+    font-weight: lighter;
+ }
+ .story {
+    color: white;
+    font-size: 23px;
+    font-weight: 300;
+    margin-left: 20%;
+ }
+ .test1 {
+    margin-left: 210px;
+    margin-bottom: 300px;
+ }
+ .test2 {
+    margin-left: 280px;
+    margin-top: -215px;
+ }
+ .test3 {
+    margin-left: 560px;
+    margin-top: -220px;
+ }
+ .founder {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 23%;
+    margin-top: -20%;
+ }
+ .founder a {
+    color: rgb(27, 27, 206);
+ }
+ .proff {
+    margin-left: 21%;
+ }
+ .proff2 {
+    margin-left: 20%;
+    margin-top: -147px;
+ }
+.proff3 {
+    margin-left: 41%;
+    margin-top: -183px;
+}
+.proff4 {
+    margin-left: 62%;
+    margin-top: -215px;
+}
+.pounds {
+    color: white;
+    margin-left: 23%;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 70px;
+}
+h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 23%;
+    font-size: 40px;
+}
+.fm {
+    color: white;
+    margin-left: 23%;
+    font-size: 23px;
+    font-weight: 400
+}
+.hard {
+   color: white;
+   font-size: 22px;
+   font-weight: 500;
+   margin-left: 25%;
+}
+.pass {
+   color: white;
+   font-size: 20px;
+   font-weight: 500;
+   margin-left: 23%;
+}
+.faq {
+   color: white;
+   font-size: 20px;
+   font-weight: 500;
+   margin-left: 25%;
+}
+article {
+   color: white;
+   font-size: 20px;
+   font-weight: 500;
+   margin-left: 23%;
+}
+.morefaq {
+   color: whitesmoke;
+   font-size: 20px;
+   font-weight: 500;
+   margin-left: 23%;
+}
+.ways {
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    margin-left: 23%;
+}
+.deve {
+   font-size: 20px;
+   color: white;
+   font-weight: 500;
+   margin-left: 23%;
+}
+.routine {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 23%;
+}
+
+.imgwrap {
+   display: flex;
+   gap: 40px;
+   padding: 20px;
+   background-color: white;
+   height: 100vh;
+   width: 250px;
+   margin-left: 10%;
+}
+.art {
+   margin-left: 33%;
+}
+.imgwrap img {
+   
+}
