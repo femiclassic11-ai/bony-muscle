@@ -212,6 +212,9 @@ h1 {
    font-weight: 500;
    margin-left: 25%;
 }
+.faq a {
+    color: rgb(30, 89, 134);
+}
 article {
    color: white;
    font-size: 20px;
@@ -223,6 +226,9 @@ article {
    font-size: 20px;
    font-weight: 500;
    margin-left: 23%;
+}
+.morefaq a {
+    color: rgb(30, 89, 134);
 }
 .ways {
     font-size: 20px;
@@ -242,19 +248,131 @@ article {
     font-weight: 500;
     margin-left: 23%;
 }
-
+.routine a {
+    color: rgb(30, 89, 134);
+}
 .imgwrap {
    display: flex;
    gap: 40px;
    padding: 20px;
    background-color: white;
    height: 100vh;
-   width: 250px;
+   width: 260px;
    margin-left: 10%;
 }
+.imgwrap2 {
+    display: flex;
+    gap: 40px;
+   padding: 10px;
+   background-color: white;
+   height: 100vh;
+   margin-left: 10%;
+   margin-top: -8%;
+}
+.imgwrap3 {
+    display: flex;
+    gap: 40px;
+   padding: 150px;
+   background-color: white;
+   height: 50vh;
+   margin-left: 110%;
+   margin-top: -3%;
+   width: 40px;
+} 
 .art {
    margin-left: 33%;
 }
-.imgwrap img {
-   
+.harm h1 {
+   color: black;
+   font-size: 16px;
+   margin-left: 29px;
 }
+.harm a {
+   text-decoration: none;
+   color: black;
+}
+.harm p{
+   color: gray;
+   font-size: large;
+   margin-left: 10%;
+}
+.harm article {
+   color: black;
+   font-size: large;
+   margin-left: 25px;
+   font-weight: 500;
+}
+.harm h5 {
+   font-size: large;
+   margin-left: 25px;
+}
+.aert p{
+   color: white;
+   font-size: 23px;
+   font-weight: 400;
+   margin-left: 25%;
+}
+.aert article {
+   font-size: 23px;
+   font-weight: 400;
+   margin-left: 22%;
+}
+.aert a {
+   text-decoration: none;
+   color: white;
+}
+.pp h1 {
+   font-size: 20px;
+   color: rgb(30, 89, 134);
+   margin-left: 5%;
+}
+.pp a {
+   text-decoration: none;
+   color: white;
+   justify-content: space-between;
+   margin-left: 65px;
+   font-size: larger;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.jj h1 {
+   font-size: 20px;
+   color: rgb(30, 89, 134);
+   margin-top: -270px;
+   margin-left: 30%;
+}
+.jj a {
+   text-decoration: none;
+   color: white;
+   font-size: larger;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-left: 370px;
+}
+.ff h1 {
+   font-size: 20px;
+   color: rgb(30, 89, 134);
+   margin-left: 60%;
+   margin-top: -16.5%;
+}
+.ff a {
+   font-size: larger;
+   text-decoration: none;
+   color: white;
+   margin-left: 745px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dash h1 {
+   font-size: 20px;
+   color: rgb(30, 89, 134);
+   margin-top: -48%;
+   margin-left: 1010px;
+}
+.dash a {
+   text-decoration: none;
+   font-size: larger;
+   color: white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-left: 1010px;
+
+}
+
+
